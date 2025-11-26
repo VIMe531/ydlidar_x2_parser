@@ -1,0 +1,2 @@
+# ydlidar_x2_parser
+YDLiDAR製X2のスキャンデータを、M5ATOM Liteを使用して最終的に/scanトピックにするためのパッケージ
